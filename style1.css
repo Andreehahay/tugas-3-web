@@ -1,0 +1,27 @@
+a:link{
+    color: midnightblue;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: rgb(25, 0, 255);
+}
+a:active{
+    color: darkcyan;
+}
+.button{
+    border-radius: 5px;
+    border: none;
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+}
+.button:hover{
+    background-color: rgb(8, 0, 255);
+}
+.button:active{
+    background-color: #ff0000;
+    box-shadow: 0 5px #666;
+}
